@@ -61,7 +61,6 @@
   <header>
     <h1>Tracy Aljhon Arellano De Asis</h1>
     <p>Licensed ECT | Electronics Engineer | Technical Specialist</p>
-    <img src="" alt="Tracy Aljhon De Asis" class="profile-photo">
   </header>
 
   <div class="container">
